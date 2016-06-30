@@ -1,0 +1,24 @@
+Codigo     Descriçao     valor    qtd
+12345      produto1      R$50      15
+12346      produto2      R$60      50
+12347      produto3      R$70      8
+12348      produto4      R$80      12
+12349      produto5      R$100     30
+12350      produto6      R$50      6
+12351      produto7      R$90      11
+12352      produto8      R$40      4
+
+
+
+- dados do produto mais caro : 12349      produto5      R$100     30
+
+
+- Codigo e descriçao dos produtos abaixo de 10 unidade : 
+12347/produto3/R$70/8
+12350/produto6/R$50/6
+12352/produto8/R$40/4
+
+
+-Ativo total do Estoque : 
+
+750 + 3000 + 560 + 960 + 3000 + 300 + 990 + 160 : R$ 9720
